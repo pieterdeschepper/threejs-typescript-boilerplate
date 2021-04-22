@@ -1,6 +1,6 @@
 {
     "name": "threejs-ts",
-    "description": "Boiler plate code for Three.js with Typescript",
+    "description": "Boilerplate code for Three.js with Typescript",
     "version": "0.1.0",
     "main": "/js/main.ts",
     "author": "Pieter De Schepper <pieter.schepper@gmail.com>",
